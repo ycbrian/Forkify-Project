@@ -1,6 +1,7 @@
 # Forkify-Project
 
-This project is from the complete Javascript course.You can search dishes and recipes. 
+Forkity is a project from the complete Javascript course.
+You can search dishes and recipes. 
 Giving it a like to add your favorite dishes into shopping list.
 This project is based on the modern JavaScript features, such as Webpack, Babel, AJAX and structured in MVC.
 
