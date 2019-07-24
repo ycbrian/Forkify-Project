@@ -14,7 +14,9 @@ Forkity is a project from the complete Javascript course.This project is based o
 
 3.Add your API key into src/config.js
 
-4.Run 'npm run build' for production or 'npm run dev' for development purposes.
+4.Run 'npm install'
+
+5.Run 'npm run build' for production or 'npm run dev' for development purposes.
 
 ![alt text](http://i64.tinypic.com/k3lj7l.png "UI Forkify")
 
