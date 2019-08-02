@@ -18,7 +18,9 @@ Forkity is a project from the complete Javascript course.This project is based o
 
 5.Run 'npm run build' for production or 'npm run dev' for development purposes.
 
-![alt text](http://i64.tinypic.com/k3lj7l.png "UI Forkify")
+<p align="center">
+  <img src="./dist/img/github_forkify.png" width="70%" alt="preview"/>
+</p>
 
 ---
 
