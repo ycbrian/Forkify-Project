@@ -22,7 +22,5 @@ Forkity is a project from the complete Javascript course.This project is based o
   <img src="./dist/img/github_forkify.png" width="90%" alt="preview"/>
 </p>
 
----
 
-This project was design by Jonas Schmedtmann
 
